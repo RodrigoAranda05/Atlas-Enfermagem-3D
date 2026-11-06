@@ -1,0 +1,11 @@
+Atlas 3D - site estático
+
+Para publicar, envie TODO o conteúdo desta pasta (index.html, os .js e a pasta models)
+para qualquer hospedagem de sites estáticos: Netlify, GitHub Pages, Vercel ou Cloudflare Pages.
+
+Para testar no computador, não abra o index.html com dois cliques: os modelos 3D só
+carregam por um servidor. Na pasta, rode:  python -m http.server 8000
+e abra http://localhost:8000
+
+Modelos 3D: BodyParts3D (DBCLS) e Human Reference Atlas (HuBMAP), licença CC BY 4.0.
+Mantenha a página de créditos ao publicar.
